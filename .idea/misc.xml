@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/debug/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17314814814814813" />
         <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/layout/activity_app_guidance.xml" value="0.209375" />
         <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/layout/activity_login2.xml" value="0.25" />
         <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/layout/activity_main.xml" value="0.209375" />
@@ -16,6 +17,7 @@
         <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/layout/content_main.xml" value="0.209375" />
         <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/layout/fragment_account.xml" value="0.209375" />
         <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/layout/fragment_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Office Project/Mohit_Backup_17_jan_2023/backup17/SalmaFit_latest_19_jan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17314814814814813" />
       </map>
     </option>
   </component>
